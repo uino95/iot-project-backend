@@ -1,0 +1,19 @@
+{
+  "name": "iot-project",
+  "version": "1.0.0",
+  "description": "iot-project-backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.17.1",
+    "express": "4.15.2",
+    "mongodb": "3.0.7",
+    "pg": "6.2.3"
+  },
+  "engines": {
+    "node": ">= 7.5.0"
+  }
+}
